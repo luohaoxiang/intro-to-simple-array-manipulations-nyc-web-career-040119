@@ -1,5 +1,5 @@
 
-def using_push(array, arg
+def using_push(array, arg)
 array.push(arg)
 end 
 
